@@ -5,7 +5,7 @@ workplace images. Built to practise the full computer-vision pipeline: dataset
 preparation, training with transfer learning, evaluation with mAP, inference on
 new images, and deployment as a live web demo.
 
-**Live demo:** https://huggingface.co/spaces/pawniityagii/ppe-detection (upload an image, see detections)
+**Live demo:** https://pawnii-ppe-helmet-detection.static.hf.space/index.html (upload an image, see detections)
 **Model:** YOLOv8n fine-tuned on a public hard-hat/PPE dataset.
 
 > Fill in your real numbers and links where marked `TODO` after you run the
