@@ -7,3 +7,4 @@ datasets/
 *.zip
 # keep the folder
 !weights/.gitkeep
+.DS_Store
