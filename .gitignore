@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.pyc
+# model + training artifacts (too big / regenerated)
+runs/
+datasets/
+*.zip
+# keep the folder
+!weights/.gitkeep
