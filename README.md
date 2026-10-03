@@ -37,7 +37,7 @@ requirements.txt                          dependencies
 sample_images/                            placeholder images for a plumbing test
 ```
 
-## How it works (so you can explain it)
+## How it works
 
 - **Task.** Object detection: for each image the model predicts bounding boxes
   plus a class and confidence for every object it finds. Harder than image
